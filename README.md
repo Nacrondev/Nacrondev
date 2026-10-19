@@ -8,6 +8,7 @@
 
 <br/>
 
+<a href="https://nacrondev.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-nacrondev.github.io-a96ddb?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a1222" alt="Portfólio"/></a>
 <a href="https://ggstore.dev.br/"><img src="https://img.shields.io/badge/Guilda-GGSTORE-d9b45b?style=for-the-badge&labelColor=0a1222" alt="GGSTORE"/></a>
 <a href="mailto:nacron14@gmail.com"><img src="https://img.shields.io/badge/Gmail-nacron14@gmail.com-e0623c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1222" alt="E-mail"/></a>
 <img src="https://komarev.com/ghpvc/?username=Nacrondev&label=visitantes&color=a96ddb&style=for-the-badge" alt="Visitantes"/>
